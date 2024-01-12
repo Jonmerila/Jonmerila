@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+Jon Merilä
+Student Software Developer
+Future Senior Dev.
 <!--
 **Jonmerila/Jonmerila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
