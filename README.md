@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-Jon Merilä
+Jon Merilä /n
+
 Student Software Developer
 Future Senior Dev.
 <!--
